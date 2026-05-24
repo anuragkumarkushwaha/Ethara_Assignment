@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="475" alt="Synergy Manager Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  <img width="1200" height="475" alt="Synergy Manager Banner" />
   <h1>🚀 Synergy Workspace: Team Task Manager</h1>
   <p>A full-stack collaborative project and task management ecosystem built with React 19, TypeScript, Vite, Express, and Tailwind CSS v4.</p>
 </div>
