@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="1200" height="475" alt="Synergy Manager Banner" />
-  <h1>🚀 Synergy Workspace: Team Task Manager</h1>
+  <img width="1200" height="475" alt="Atlas TeamHub Banner" />
+  <h1>🚀 Atlas TeamHub: Team Task Manager</h1>
   <p>A full-stack collaborative project and task management ecosystem built with React 19, TypeScript, Vite, Express, and Tailwind CSS v4.</p>
 </div>
 
@@ -8,7 +8,7 @@
 
 ## 🛠️ Features & Architecture
 
-Synergy Workspace is engineered with a strict client-server separation, packing premium visual interfaces and robust server-side security enforcement:
+Atlas TeamHub is engineered with a strict client-server separation, packing premium visual interfaces and robust server-side security enforcement:
 
 * **🔐 Cryptographic Authentication:** Implements a state-hashing authorization flow utilizing SHA-256 for passwords and 24-hour token-based sessions.
 * **📁 Multi-Tenant Workspaces:** Creates independent project workspaces mapping granular relationships (`ownerId` and `members` collections).

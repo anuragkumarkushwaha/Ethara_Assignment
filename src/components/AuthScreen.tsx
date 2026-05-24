@@ -55,7 +55,7 @@ export default function AuthScreen({ onAuthSuccess }: AuthScreenProps) {
             <Layers className="h-8 w-8" />
           </div>
           <h2 className="mt-6 text-3xl font-bold tracking-tight text-gray-900 font-sans">
-            Synergy Manager
+            Atlas TeamHub
           </h2>
           <p className="mt-2 text-sm text-gray-500">
             Collaborative team, task, and project engine

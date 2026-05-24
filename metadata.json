@@ -1,5 +1,5 @@
 {
-  "name": "Team Task Manager",
+  "name": "Atlas TeamHub",
   "description": "Full-stack project and team task manager with role-based access control, analytics dashboard, and real-time status tracking.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

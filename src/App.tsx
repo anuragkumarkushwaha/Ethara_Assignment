@@ -74,7 +74,7 @@ export default function App() {
       <div className="flex min-h-screen items-center justify-center bg-gray-50/50">
         <div className="text-center space-y-3">
           <Terminal className="mx-auto h-10 w-10 text-indigo-600 animate-pulse" />
-          <h2 className="text-sm font-bold tracking-tight text-gray-900 font-sans">Synergy Core</h2>
+          <h2 className="text-sm font-bold tracking-tight text-gray-900 font-sans">Atlas Core</h2>
           <p className="text-xs text-gray-500">Parsing cryptographic session tokens...</p>
         </div>
       </div>
@@ -101,7 +101,7 @@ export default function App() {
                 <Terminal className="h-5 w-5" />
               </div>
               <span className="text-base font-bold text-gray-950 tracking-tight font-sans">
-                Synergy Workspace
+                Atlas TeamHub
               </span>
             </div>
 
@@ -288,7 +288,7 @@ export default function App() {
       {/* Sticky footer */}
       <footer className="border-t border-gray-100 bg-white py-6 mt-16 text-center text-xs text-gray-400">
         <div className="mx-auto max-w-7xl px-4">
-          <p>© 2026 Synergy Manager Core Engine. Structured Client-Server Architecture.</p>
+          <p>© 2026 Atlas TeamHub Core Engine. Structured Client-Server Architecture.</p>
         </div>
       </footer>
 
